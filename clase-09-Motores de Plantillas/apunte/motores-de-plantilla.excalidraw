@@ -1,0 +1,453 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "rrnkIzTqvGMmWR_Awy-l4",
+      "type": "rectangle",
+      "x": 325.8333435058594,
+      "y": 102.49999237060547,
+      "width": 648.984375,
+      "height": 254.81771087646484,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 2082103392,
+      "version": 181,
+      "versionNonce": 825794976,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "ZRTDNPvsVJyW9laEanEhe"
+        }
+      ],
+      "updated": 1714228631604,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "ZRTDNPvsVJyW9laEanEhe",
+      "type": "text",
+      "x": 333.9192810058594,
+      "y": 145.9088478088379,
+      "width": 632.8125,
+      "height": 168,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 623251872,
+      "version": 190,
+      "versionNonce": 1475118496,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1714228631604,
+      "link": null,
+      "locked": false,
+      "text": "Un motor de plantillas en Node.js es una herramienta \nque facilita la generación de contenido dinámico para \naplicaciones web. En lugar de enviar archivos \nestáticos al navegador, como HTML, CSS y JavaScript, \nel motor de plantillas permite crear archivos HTML \ndinámicos que pueden contener datos variables que se \ninsertan en ellos antes de ser enviados al cliente.",
+      "fontSize": 20,
+      "fontFamily": 3,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 162,
+      "containerId": "rrnkIzTqvGMmWR_Awy-l4",
+      "originalText": "Un motor de plantillas en Node.js es una herramienta que facilita la generación de contenido dinámico para aplicaciones web. En lugar de enviar archivos estáticos al navegador, como HTML, CSS y JavaScript, el motor de plantillas permite crear archivos HTML dinámicos que pueden contener datos variables que se insertan en ellos antes de ser enviados al cliente.",
+      "lineHeight": 1.2
+    },
+    {
+      "id": "C85LwufAMfx1LDkeqPo1z",
+      "type": "rectangle",
+      "x": 26.106887817382812,
+      "y": 408.4375305175781,
+      "width": 413.15106201171875,
+      "height": 239.81771850585938,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 81061280,
+      "version": 573,
+      "versionNonce": 749574560,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "_qdLCdR7eKgCDfxqw52vP"
+        },
+        {
+          "id": "UP20xOML9dZaaMdafROrM",
+          "type": "arrow"
+        },
+        {
+          "id": "_KUtpYtpRRsbHODgTIkTW",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1714229041111,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "_qdLCdR7eKgCDfxqw52vP",
+      "type": "text",
+      "x": 39.32304382324219,
+      "y": 468.3463897705078,
+      "width": 386.71875,
+      "height": 120,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 169887136,
+      "version": 620,
+      "versionNonce": 587818400,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1714229041111,
+      "link": null,
+      "locked": false,
+      "text": "Front\nHTML, CSS y JS\nReact, Angular, VUE, Svelte, etc.\n\nServidor: localhost:5787",
+      "fontSize": 20,
+      "fontFamily": 3,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 114,
+      "containerId": "C85LwufAMfx1LDkeqPo1z",
+      "originalText": "Front\nHTML, CSS y JS\nReact, Angular, VUE, Svelte, etc.\n\nServidor: localhost:5787",
+      "lineHeight": 1.2
+    },
+    {
+      "id": "7a306LolDiapWACDvoo92",
+      "type": "rectangle",
+      "x": 859.7784881591797,
+      "y": 400.1040954589844,
+      "width": 408.6588134765625,
+      "height": 246.9921875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 365382752,
+      "version": 237,
+      "versionNonce": 1239886944,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "zRl9-2o-Tm-ocAU2YBwq-"
+        },
+        {
+          "id": "_KUtpYtpRRsbHODgTIkTW",
+          "type": "arrow"
+        },
+        {
+          "id": "UP20xOML9dZaaMdafROrM",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1714229083497,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "zRl9-2o-Tm-ocAU2YBwq-",
+      "type": "text",
+      "x": 876.6078948974609,
+      "y": 427.6001892089844,
+      "width": 375,
+      "height": 192,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 2136257632,
+      "version": 285,
+      "versionNonce": 1895997536,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1714229083497,
+      "link": null,
+      "locked": false,
+      "text": "Backend \nJavaScript, Python, .Net, Java, \nRubry, etc.\n\nNodejs - express\n\nservidor: loclahost:8080\n",
+      "fontSize": 20,
+      "fontFamily": 3,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 186,
+      "containerId": "7a306LolDiapWACDvoo92",
+      "originalText": "Backend \nJavaScript, Python, .Net, Java, Rubry, etc.\n\nNodejs - express\n\nservidor: loclahost:8080\n",
+      "lineHeight": 1.2
+    },
+    {
+      "id": "_KUtpYtpRRsbHODgTIkTW",
+      "type": "arrow",
+      "x": 441.31520080566406,
+      "y": 483.61975080588536,
+      "width": 414.1404113769531,
+      "height": 0.16008970203267836,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1814919584,
+      "version": 808,
+      "versionNonce": 308152416,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "KfMP2m6S8WGyEXwaVwofg"
+        }
+      ],
+      "updated": 1714229083497,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          414.1404113769531,
+          0.16008970203267836
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "C85LwufAMfx1LDkeqPo1z",
+        "focus": -0.37340849532216325,
+        "gap": 2.0572509765625
+      },
+      "endBinding": {
+        "elementId": "7a306LolDiapWACDvoo92",
+        "focus": 0.3215833853133392,
+        "gap": 4.3228759765625
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "KfMP2m6S8WGyEXwaVwofg",
+      "type": "text",
+      "x": 499.15367126464844,
+      "y": 468.64350933142134,
+      "width": 257.8125,
+      "height": 48,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 192011360,
+      "version": 48,
+      "versionNonce": 1637860448,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1714229003435,
+      "link": null,
+      "locked": false,
+      "text": "HTTP (GET, POST, PUT, \nDELETE)",
+      "fontSize": 20,
+      "fontFamily": 3,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 42,
+      "containerId": "_KUtpYtpRRsbHODgTIkTW",
+      "originalText": "HTTP (GET, POST, PUT, DELETE)",
+      "lineHeight": 1.2
+    },
+    {
+      "id": "UP20xOML9dZaaMdafROrM",
+      "type": "arrow",
+      "x": 857.8253631591797,
+      "y": 591.7552739127239,
+      "width": 416.4972229003906,
+      "height": 3.2361896462027744,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1241015392,
+      "version": 631,
+      "versionNonce": 1375694944,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1714229083498,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -416.4972229003906,
+          -3.2361896462027744
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "7a306LolDiapWACDvoo92",
+        "focus": -0.5576884372202124,
+        "gap": 1.953125
+      },
+      "endBinding": {
+        "elementId": "C85LwufAMfx1LDkeqPo1z",
+        "focus": 0.48185012577504654,
+        "gap": 2.0701904296875
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "Y6XArGn3Vb-IxEkuAOp_4",
+      "type": "rectangle",
+      "x": 363.3332977294922,
+      "y": 736.6666564941406,
+      "width": 484.66143798828125,
+      "height": 223.65887451171875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 613840288,
+      "version": 100,
+      "versionNonce": 84066720,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "rpxlZh6IafM6vDxogGBV3"
+        }
+      ],
+      "updated": 1714229159067,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "rpxlZh6IafM6vDxogGBV3",
+      "type": "text",
+      "x": 388.8671417236328,
+      "y": 812.49609375,
+      "width": 433.59375,
+      "height": 72,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1864476064,
+      "version": 138,
+      "versionNonce": 108629408,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1714229159067,
+      "link": null,
+      "locked": false,
+      "text": "Backend\nCon motores de plantilla\nRenderisamos un archivo HTML dinámico",
+      "fontSize": 20,
+      "fontFamily": 3,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 66,
+      "containerId": "Y6XArGn3Vb-IxEkuAOp_4",
+      "originalText": "Backend\nCon motores de plantilla\nRenderisamos un archivo HTML dinámico",
+      "lineHeight": 1.2
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
