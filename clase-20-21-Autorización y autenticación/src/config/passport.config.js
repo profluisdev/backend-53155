@@ -63,8 +63,8 @@ const initializePassport = () => {
     "google",
     new GoogleStrategy(
       {
-        clientID: "539969425989-mapmf8l7i9b7fons19htttaugmrpnm9d.apps.googleusercontent.com",
-        clientSecret: "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",
+        clientID: "",
+        clientSecret: "",
         callbackURL: "http://localhost:8080/api/session/google",
       },
       async (accessToken, refreshToken, profile, cb) => {
