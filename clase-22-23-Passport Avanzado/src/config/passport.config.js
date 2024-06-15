@@ -1,11 +1,24 @@
 import passport from "passport";
 import local from "passport-local";
 import google from "passport-google-oauth20";
+import jwt from "passport-jwt";
 import { createHash, isValidPassword } from "../utils/hashPassword.js";
 import userDao from "../dao/mongoDao/user.dao.js";
 
 const LocalStrategy = local.Strategy;
 const GoogleStrategy = google.Strategy;
+const JWTStrategy = jwt.Strategy;
+const ExtractJWT = jwt.ExtractJwt;
+
+const cookieExtracto = (req) => {
+  let token = null;
+
+  if (req && req.cookies) {
+    token = req.cookies.token;
+  }
+
+  return token;
+};
 
 const initializePassport = () => {
   // Esta función inicializa las estrategias que configuremos
@@ -23,7 +36,7 @@ const initializePassport = () => {
       */
       async (req, username, password, done) => {
         try {
-          const { first_name, last_name, email, age } = req.body;
+          const { first_name, last_name, email, age, role } = req.body;
           const user = await userDao.getByEmail(username);
           if (user) return done(null, false, { message: "El usuario ya existe" });
 
@@ -33,6 +46,7 @@ const initializePassport = () => {
             email,
             age,
             password: createHash(password),
+            role,
           };
 
           const createUser = await userDao.create(newUser);
@@ -84,6 +98,23 @@ const initializePassport = () => {
           cb(null, newUser);
         } catch (error) {
           return cb(error);
+        }
+      }
+    )
+  );
+
+  passport.use(
+    "jwt",
+    new JWTStrategy(
+      {
+        jwtFromRequest: ExtractJWT.fromExtractors([cookieExtracto]),
+        secretOrKey: "codigoSecreto",
+      },
+      async (jwt_payload, done) => {
+        try {
+          return done(null, jwt_payload);
+        } catch (error) {
+          return done(error);
         }
       }
     )
