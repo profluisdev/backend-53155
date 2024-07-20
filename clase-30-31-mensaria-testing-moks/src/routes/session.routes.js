@@ -26,7 +26,7 @@ router.get(
 router.get("/logout", sessionControllers.logout);
 
 router.get("/sms", async (req, res) => {
-  await sendSMS("+543854832042", "Coder es los más !!!");
+  await sendSMS("", "Coder es los más !!!");
 
   return res.status(200).json({ status: "ok", msg: "SMS enviado" });
 });
