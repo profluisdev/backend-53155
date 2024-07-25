@@ -1,4 +1,5 @@
 import cartsServices from "../services/carts.services.js";
+import ticketServices from "../services/ticket.services.js";
 
 const createCart = async (req, res) => {
   try {
@@ -51,7 +52,7 @@ const deleteProductInCart = async (req, res) => {
 const getCartById = async (req, res) => {
   try {
     const { cid } = req.params;
-    const cart = await cartsServices.getById(cid);
+    const cart = await cartsServices.getCartById(cid);
     if (!cart) return res.status(404).json({ status: "Error", msg: `No se encontró el carrito con el id ${cid}` });
 
     res.status(200).json({ status: "success", payload: cart });
@@ -77,16 +78,20 @@ const deleteAllProductsInCart = async (req, res) => {
 
 const purchaseCart = async (req, res) => {
   try {
-    
-    //TODO llamar al servicio del proceso de compra
+    const { cid } = req.params;
+    const cart = await cartsServices.getCartById(cid);
+    if (!cart) return res.status(404).json({ status: "Error", msg: `No se encontró el carrito con el id ${cid}` });
+    // Obtener el total del carrito
+    const total = await cartsServices.purchaseCart(cid);
+    // Crear el ticket
+    const ticket = await ticketServices.createTicket(req.user.email, total);
 
-
-    res.status(200).json({ status: "success", payload: cart });
+    res.status(200).json({ status: "success", payload: ticket });
   } catch (error) {
     console.log(error);
     res.status(500).json({ status: "Error", msg: "Error interno del servidor" });
   }
-}
+};
 
 export default {
   createCart,
@@ -95,5 +100,5 @@ export default {
   deleteProductInCart,
   getCartById,
   deleteAllProductsInCart,
-  purchaseCart
+  purchaseCart,
 };

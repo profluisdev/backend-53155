@@ -3,8 +3,8 @@ import envs from "../config/env.config.js"
 
 // Crear el token
 export const createToken = (user) => {
-  const { _id, email, role } = user;
-  const token = jwt.sign({ _id, email, role }, envs.CODE_SECRET, { expiresIn: "1m" });
+  const { _id, email, role, cart } = user;
+  const token = jwt.sign({ _id, email, role, cart }, envs.CODE_SECRET, { expiresIn: "1m" });
   return token;
 };
 
