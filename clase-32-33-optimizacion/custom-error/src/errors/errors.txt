@@ -1,0 +1,50 @@
+1. **400 Bad Request:**
+   - **Descripción:** El servidor no puede procesar la solicitud debido a un error del cliente (por ejemplo, sintaxis de solicitud incorrecta).
+
+2. **401 Unauthorized:**
+   - **Descripción:** La solicitud requiere autenticación del usuario. El cliente debe autenticarse para obtener la respuesta solicitada.
+
+3. **403 Forbidden:**
+   - **Descripción:** El servidor entiende la solicitud, pero se niega a autorizarla. El acceso está prohibido.
+
+4. **404 Not Found:**
+   - **Descripción:** El servidor no puede encontrar el recurso solicitado. Es posible que la URL esté mal escrita o que el recurso no exista.
+
+5. **405 Method Not Allowed:**
+   - **Descripción:** El método especificado en la solicitud no está permitido para el recurso solicitado.
+
+6. **406 Not Acceptable:**
+   - **Descripción:** El servidor no puede producir una respuesta que coincida con las cabeceras de aceptación enviadas en la solicitud.
+
+7. **408 Request Timeout:**
+   - **Descripción:** El servidor agotó el tiempo de espera mientras esperaba la solicitud del cliente.
+
+8. **409 Conflict:**
+   - **Descripción:** La solicitud no se pudo completar debido a un conflicto con el estado actual del recurso.
+
+9. **410 Gone:**
+   - **Descripción:** El recurso solicitado ya no está disponible y no se conoce su nueva ubicación. Se espera que el recurso haya sido eliminado.
+
+10. **415 Unsupported Media Type:**
+    - **Descripción:** El servidor se niega a aceptar la solicitud porque el formato del contenido no es compatible.
+
+11. **429 Too Many Requests:**
+    - **Descripción:** El usuario ha enviado demasiadas solicitudes en un período de tiempo determinado.
+
+12. **500 Internal Server Error:**
+    - **Descripción:** El servidor encontró una condición inesperada que le impide completar la solicitud.
+
+13. **501 Not Implemented:**
+    - **Descripción:** El servidor no reconoce el método de solicitud y no puede soportarlo.
+
+14. **502 Bad Gateway:**
+    - **Descripción:** El servidor, al actuar como una puerta de enlace o proxy, recibió una respuesta no válida del servidor de respaldo.
+
+15. **503 Service Unavailable:**
+    - **Descripción:** El servidor no está disponible para manejar la solicitud debido a sobrecarga o mantenimiento temporal.
+
+16. **504 Gateway Timeout:**
+    - **Descripción:** El servidor, al actuar como una puerta de enlace o proxy, no recibió una respuesta oportuna del servidor de respaldo.
+
+17. **505 HTTP Version Not Supported:**
+    - **Descripción:** El servidor no admite la versión del protocolo HTTP utilizada en la solicitud.
