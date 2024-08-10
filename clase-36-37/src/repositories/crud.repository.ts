@@ -1,6 +1,6 @@
-import { Model } from "mongoose";
+import { Document, Model } from "mongoose";
 
-export class CrudRepository<T> {
+export class CrudRepository<T extends Document > {
   constructor(private model: Model<T>) {
     this.model = model;
   }

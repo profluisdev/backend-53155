@@ -5,4 +5,5 @@ export class UserEntity extends Document {
     public lastName!: string;
     public email!: string;
     public password!: string;
+    public tasks!: [];
 }
