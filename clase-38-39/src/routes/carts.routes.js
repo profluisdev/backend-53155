@@ -6,7 +6,6 @@ import cartsControllers from "../controllers/carts.controllers.js";
 import { isUserCart } from "../middlewares/isUserCart.js";
 const router = Router();
 
-router.post("/", passportCall("jwt"), authorization("admin"), cartsControllers.createCart);
 
 router.post("/:cid/product/:pid", passportCall("jwt"), authorization(["user", "premium"]), checkProductAndCart, isUserCart, cartsControllers.addProductToCart);
 
