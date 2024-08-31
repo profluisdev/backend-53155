@@ -1,0 +1,59 @@
+paths:
+    /api/products/{pid}:
+        delete:
+            tags:
+                - Products
+            summary: Delete product by id
+            parameters:
+              - name: pid
+                in: path
+                description: ID del producto
+                required: true
+                schema: 
+                  type: string
+            responses:
+                "200":
+                    description: El producto fue obtenido correctamente.
+                    content:
+                      application/json:
+                        schema:
+                          $ref: "#components/schemas/ProductsById"
+                "404":
+                    description: Producto no encontrado
+                "500":
+                    description: Internal Server Error
+
+components:
+    schemas:
+        ProductsById:
+            type: object
+            properties:
+                _id:
+                    type: ObjectId
+                title:
+                    type: string
+                description:
+                    type: string
+                thumbnail:
+                    type: array
+                code:
+                    type: string
+                stock:
+                    type: integer
+                status:
+                    type: boolean
+                price:
+                    type: number
+                category:
+                    type: string
+            example:
+              _id: "66bfcbee59656de3ea704c27"
+              title: "Producto 1"
+              description: "Un producto"
+              thumbnail: ["www.google.com"]
+              code: "SFDS123A"
+              stock: 20
+              status: true
+              price: 342.032
+              category: "Zapatos"
+              
