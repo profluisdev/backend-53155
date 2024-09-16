@@ -1,0 +1,554 @@
+2024-08-03 12:21:53 info: Mongo DB Conectado
+2024-08-03 12:21:53 info: Escuchando el servidor en el puerto 8080
+2024-08-03 12:21:53 error: Se cayo el server
+2024-08-03 12:21:53 warn: Se cayo el server
+2024-08-03 12:22:51 info: Mongo DB Conectado
+2024-08-03 12:22:51 info: Escuchando el servidor en el puerto 8080
+2024-08-03 12:22:51 error: Se cayo el server
+2024-08-03 12:22:51 warn: Se cayo el server
+2024-08-03 12:22:51 http: /GE
+2024-08-03 12:23:34 info: Mongo DB Conectado
+2024-08-03 12:23:34 info: Escuchando el servidor en el puerto 8080
+2024-08-03 12:23:34 error: Se cayo el server
+2024-08-03 12:23:34 warn: Se cayo el server
+2024-08-03 12:26:40 info: Mongo DB Conectado
+2024-08-03 12:26:40 info: Escuchando el servidor en el puerto 8080
+2024-08-03 12:26:40 error: Se cayo el server
+2024-08-03 12:26:40 warn: Se cayo el server
+2024-08-03 12:46:44 info: Mongo DB Conectado
+2024-08-03 12:46:44 info: Escuchando el servidor en el puerto 8080
+2024-08-03 12:46:44 error: Se cayo el server
+2024-08-03 12:46:44 warn: Se cayo el server
+2024-08-03 12:47:13 info: Mongo DB Conectado
+2024-08-03 12:47:13 info: Escuchando el servidor en el puerto 8080
+2024-08-03 12:47:13 error: Se cayo el server
+2024-08-03 12:47:13 warn: Se cayo el server
+2024-08-03 12:48:02 info: Mongo DB Conectado
+2024-08-03 12:48:02 info: Escuchando el servidor en el puerto 8080
+2024-08-03 12:48:02 error: Se cayo el server
+2024-08-03 12:48:02 warn: Se cayo el server
+2024-08-03 12:48:13 info: Mongo DB Conectado
+2024-08-03 12:48:13 info: Escuchando el servidor en el puerto 8080
+2024-08-03 12:48:13 error: Se cayo el server
+2024-08-03 12:48:13 warn: Se cayo el server
+2024-08-03 12:48:14 info: Mongo DB Conectado
+2024-08-03 12:48:14 info: Escuchando el servidor en el puerto 8080
+2024-08-03 12:48:14 error: Se cayo el server
+2024-08-03 12:48:14 warn: Se cayo el server
+2024-08-03 12:48:16 info: Mongo DB Conectado
+2024-08-03 12:48:16 info: Escuchando el servidor en el puerto 8080
+2024-08-03 12:48:16 error: Se cayo el server
+2024-08-03 12:48:16 warn: Se cayo el server
+2024-08-03 12:49:22 info: Mongo DB Conectado
+2024-08-03 12:49:22 info: Escuchando el servidor en el puerto 8080
+2024-08-03 12:49:22 error: Se cayo el server
+2024-08-03 12:49:22 warn: Se cayo el server
+2024-08-03 12:50:27 info: Mongo DB Conectado
+2024-08-03 12:50:27 info: Escuchando el servidor en el puerto 8080
+2024-08-03 12:50:27 error: Se cayo el server
+2024-08-03 12:50:27 warn: Se cayo el server
+2024-08-03 12:51:50 info: Mongo DB Conectado
+2024-08-03 12:51:50 info: Escuchando el servidor en el puerto 8080
+2024-08-03 12:52:18 info: Mongo DB Conectado
+2024-08-03 12:52:18 info: Escuchando el servidor en el puerto 8080
+2024-08-03 12:52:18 error: Escuchando el servidor en el puerto 8080
+2024-08-03 12:56:22 info: Mongo DB Conectado
+2024-08-03 12:56:22 info: Escuchando el servidor en el puerto 8080
+2024-08-03 12:56:22 error: Escuchando el servidor en el puerto 8080
+2024-08-03 12:57:25 info: Mongo DB Conectado
+2024-08-03 12:57:25 info: Escuchando el servidor en el puerto 8080
+2024-08-03 12:57:28 info: Mongo DB Conectado
+2024-08-03 12:57:28 info: Escuchando el servidor en el puerto 8080
+2024-08-03 12:59:29 info: Mongo DB Conectado
+2024-08-03 12:59:29 info: Escuchando el servidor en el puerto 8080
+2024-08-03 12:59:32 error: Product id 663ecface7a12be667faa99e not found
+2024-08-03 12:59:42 info: Mongo DB Conectado
+2024-08-03 12:59:42 info: Escuchando el servidor en el puerto 8080
+2024-08-03 12:59:44 error: Product id 663ecface7a12be667faa99e not found
+2024-08-03 13:00:37 error: Cast to ObjectId failed for value "663ecface7a12be667faa99" (type string) at path "_id" for model "products"
+2024-08-03 13:02:23 info: Mongo DB Conectado
+2024-08-03 13:02:23 info: Escuchando el servidor en el puerto 8080
+2024-08-03 13:03:28 info: Mongo DB Conectado
+2024-08-03 13:03:28 info: Escuchando el servidor en el puerto 8080
+2024-08-03 13:03:41 info: Mongo DB Conectado
+2024-08-03 13:03:41 info: Escuchando el servidor en el puerto 8080
+2024-08-03 13:03:57 error: Internal Server Error
+2024-08-03 13:04:39 info: Mongo DB Conectado
+2024-08-03 13:04:39 info: Escuchando el servidor en el puerto 8080
+2024-08-03 13:04:50 error: Cast to ObjectId failed for value "663ecface7a12be667faa99" (type string) at path "_id" for model "products"
+2024-08-03 13:08:24 error: Cast to ObjectId failed for value "fdsfsdfsd" (type string) at path "_id" for model "products"
+2024-08-03 13:11:44 info: Mongo DB Conectado
+2024-08-03 13:11:44 info: Escuchando el servidor en el puerto 8080
+2024-08-03 13:11:48 error: [GET] /api/products/id:
+2024-08-03 13:11:48 error: Cast to ObjectId failed for value "fdsfsdfsd" (type string) at path "_id" for model "products"
+2024-08-03 13:12:23 error: [GET] /api/products/id:
+2024-08-03 13:13:56 info: Mongo DB Conectado
+2024-08-03 13:13:56 info: Escuchando el servidor en el puerto 8080
+2024-08-03 13:14:02 error: [GET] /api/products/id:
+2024-08-03 13:14:02 error: Cast to ObjectId failed for value "663ecfac" (type string) at path "_id" for model "products"
+2024-08-03 13:14:12 info: Mongo DB Conectado
+2024-08-03 13:14:12 info: Escuchando el servidor en el puerto 8080
+2024-08-03 13:14:16 error: [GET] /api/products/id:
+2024-08-03 13:14:16 error: Cast to ObjectId failed for value "663ecfac" (type string) at path "_id" for model "products"
+2024-08-03 13:16:13 info: Mongo DB Conectado
+2024-08-03 13:16:13 info: Escuchando el servidor en el puerto 8080
+2024-08-03 13:16:44 info: Mongo DB Conectado
+2024-08-03 13:16:44 info: Escuchando el servidor en el puerto 8080
+2024-08-03 13:17:13 info: Mongo DB Conectado
+2024-08-03 13:17:13 info: Escuchando el servidor en el puerto 8080
+2024-08-03 14:20:57 info: Mongo DB Conectado
+2024-08-03 14:20:57 info: Escuchando el servidor en el puerto 8080
+2024-08-03 14:22:42 info: Mongo DB Conectado
+2024-08-03 14:22:42 info: Escuchando el servidor en el puerto 8080
+2024-08-03 14:26:55 info: Mongo DB Conectado
+2024-08-03 14:26:55 info: Escuchando el servidor en el puerto 8080
+2024-08-03 14:36:07 info: Mongo DB Conectado
+2024-08-03 14:36:07 info: Escuchando el servidor en el puerto 8080
+2024-08-03 14:38:10 info: Mongo DB Conectado
+2024-08-03 14:38:10 info: Escuchando el servidor en el puerto 8080
+2024-08-03 14:38:50 info: Mongo DB Conectado
+2024-08-03 14:38:50 info: Escuchando el servidor en el puerto 8080
+2024-08-03 14:49:12 info: Mongo DB Conectado
+2024-08-03 14:49:12 info: Escuchando el servidor en el puerto 8080
+2024-08-03 15:58:18 info: Mongo DB Conectado
+2024-08-03 15:58:18 info: Escuchando el servidor en el puerto 8080
+2024-08-03 15:58:49 info: Mongo DB Conectado
+2024-08-03 15:58:49 info: Escuchando el servidor en el puerto 8080
+2024-08-03 15:59:13 info: Mongo DB Conectado
+2024-08-03 15:59:13 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:21:17 info: Mongo DB Conectado
+2024-08-16 20:21:17 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:23:42 info: Mongo DB Conectado
+2024-08-16 20:23:42 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:24:03 info: Mongo DB Conectado
+2024-08-16 20:24:03 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:24:16 info: Mongo DB Conectado
+2024-08-16 20:24:16 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:24:54 info: Mongo DB Conectado
+2024-08-16 20:24:54 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:26:02 info: Mongo DB Conectado
+2024-08-16 20:26:02 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:26:19 info: Mongo DB Conectado
+2024-08-16 20:26:19 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:27:08 info: Mongo DB Conectado
+2024-08-16 20:27:08 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:28:37 info: Mongo DB Conectado
+2024-08-16 20:28:37 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:28:46 info: Mongo DB Conectado
+2024-08-16 20:28:46 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:29:36 info: Mongo DB Conectado
+2024-08-16 20:29:36 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:30:34 info: Mongo DB Conectado
+2024-08-16 20:30:34 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:30:52 info: Mongo DB Conectado
+2024-08-16 20:30:52 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:31:03 info: Mongo DB Conectado
+2024-08-16 20:31:03 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:31:47 info: Mongo DB Conectado
+2024-08-16 20:31:47 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:32:50 info: Mongo DB Conectado
+2024-08-16 20:32:50 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:34:19 info: Mongo DB Conectado
+2024-08-16 20:34:19 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:34:38 info: Mongo DB Conectado
+2024-08-16 20:34:38 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:37:29 info: Mongo DB Conectado
+2024-08-16 20:37:29 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:40:46 info: Mongo DB Conectado
+2024-08-16 20:40:46 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:44:59 info: Mongo DB Conectado
+2024-08-16 20:44:59 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:46:30 error: [POST] /api/user/reset-password - data and hash arguments required
+2024-08-16 20:49:49 info: Mongo DB Conectado
+2024-08-16 20:49:49 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:50:02 error: [POST] /api/user/reset-password - data and hash arguments required
+2024-08-16 20:50:23 info: Mongo DB Conectado
+2024-08-16 20:50:23 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:50:38 error: [POST] /api/user/reset-password - data and hash arguments required
+2024-08-16 20:51:19 info: Mongo DB Conectado
+2024-08-16 20:51:19 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:51:35 info: Mongo DB Conectado
+2024-08-16 20:51:35 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:53:42 info: Mongo DB Conectado
+2024-08-16 20:53:42 info: Escuchando el servidor en el puerto 8080
+2024-08-16 20:54:46 info: Mongo DB Conectado
+2024-08-16 20:54:46 info: Escuchando el servidor en el puerto 8080
+2024-08-16 21:00:34 info: Mongo DB Conectado
+2024-08-16 21:00:34 info: Escuchando el servidor en el puerto 8080
+2024-08-16 21:01:07 info: Mongo DB Conectado
+2024-08-16 21:01:07 info: Escuchando el servidor en el puerto 8080
+2024-08-16 21:03:58 info: Mongo DB Conectado
+2024-08-16 21:03:58 info: Escuchando el servidor en el puerto 8080
+2024-08-16 21:04:49 info: Mongo DB Conectado
+2024-08-16 21:04:49 info: Escuchando el servidor en el puerto 8080
+2024-08-16 21:04:53 info: Mongo DB Conectado
+2024-08-16 21:04:53 info: Escuchando el servidor en el puerto 8080
+2024-08-16 21:06:22 info: Mongo DB Conectado
+2024-08-16 21:06:22 info: Escuchando el servidor en el puerto 8080
+2024-08-16 21:08:47 info: Mongo DB Conectado
+2024-08-16 21:08:47 info: Escuchando el servidor en el puerto 8080
+2024-08-16 21:09:22 info: Mongo DB Conectado
+2024-08-16 21:09:22 info: Escuchando el servidor en el puerto 8080
+2024-08-16 21:09:37 info: Mongo DB Conectado
+2024-08-16 21:09:37 info: Escuchando el servidor en el puerto 8080
+2024-08-16 21:10:20 info: Mongo DB Conectado
+2024-08-16 21:10:20 info: Escuchando el servidor en el puerto 8080
+2024-08-16 21:10:21 info: Mongo DB Conectado
+2024-08-16 21:10:21 info: Escuchando el servidor en el puerto 8080
+2024-08-16 21:13:17 info: Mongo DB Conectado
+2024-08-16 21:13:17 info: Escuchando el servidor en el puerto 8080
+2024-08-16 21:14:14 info: Mongo DB Conectado
+2024-08-16 21:14:14 info: Escuchando el servidor en el puerto 8080
+2024-08-16 21:14:45 info: Mongo DB Conectado
+2024-08-16 21:14:45 info: Escuchando el servidor en el puerto 8080
+2024-08-16 21:15:58 info: Mongo DB Conectado
+2024-08-16 21:15:58 info: Escuchando el servidor en el puerto 8080
+2024-08-16 21:17:32 info: Mongo DB Conectado
+2024-08-16 21:17:32 info: Escuchando el servidor en el puerto 8080
+2024-08-16 21:18:36 info: Mongo DB Conectado
+2024-08-16 21:18:36 info: Escuchando el servidor en el puerto 8080
+2024-08-16 21:20:40 info: Mongo DB Conectado
+2024-08-16 21:20:40 info: Escuchando el servidor en el puerto 8080
+2024-08-16 21:20:45 info: Mongo DB Conectado
+2024-08-16 21:20:45 info: Escuchando el servidor en el puerto 8080
+2024-08-16 21:21:36 info: Mongo DB Conectado
+2024-08-16 21:21:36 info: Escuchando el servidor en el puerto 8080
+2024-08-16 21:21:42 info: Mongo DB Conectado
+2024-08-16 21:21:42 info: Escuchando el servidor en el puerto 8080
+2024-08-24 12:07:11 info: Mongo DB Conectado
+2024-08-24 12:07:11 info: Escuchando el servidor en el puerto 8080
+2024-08-24 12:08:26 info: Mongo DB Conectado
+2024-08-24 12:08:26 info: Escuchando el servidor en el puerto 8080
+2024-08-24 12:09:11 info: Mongo DB Conectado
+2024-08-24 12:09:11 info: Escuchando el servidor en el puerto 8080
+2024-08-24 12:09:41 info: Mongo DB Conectado
+2024-08-24 12:09:41 info: Escuchando el servidor en el puerto 8080
+2024-08-24 12:16:38 info: Mongo DB Conectado
+2024-08-24 12:16:38 info: Escuchando el servidor en el puerto 8080
+2024-08-24 12:17:42 info: Mongo DB Conectado
+2024-08-24 12:17:42 info: Escuchando el servidor en el puerto 8080
+2024-08-24 12:18:39 info: Mongo DB Conectado
+2024-08-24 12:18:39 info: Escuchando el servidor en el puerto 8080
+2024-08-24 12:20:34 info: Mongo DB Conectado
+2024-08-24 12:20:34 info: Escuchando el servidor en el puerto 8080
+2024-08-24 12:20:39 info: Mongo DB Conectado
+2024-08-24 12:20:39 info: Escuchando el servidor en el puerto 8080
+2024-08-24 12:40:15 info: Mongo DB Conectado
+2024-08-24 12:40:15 info: Escuchando el servidor en el puerto 8080
+2024-08-24 12:40:44 info: Mongo DB Conectado
+2024-08-24 12:40:44 info: Escuchando el servidor en el puerto 8080
+2024-08-24 12:57:50 info: Mongo DB Conectado
+2024-08-24 12:57:50 info: Escuchando el servidor en el puerto 8080
+2024-08-24 13:02:50 info: Mongo DB Conectado
+2024-08-24 13:02:50 info: Escuchando el servidor en el puerto 8080
+2024-08-24 13:04:34 info: Mongo DB Conectado
+2024-08-24 13:04:34 info: Escuchando el servidor en el puerto 8080
+2024-08-24 13:05:01 info: Mongo DB Conectado
+2024-08-24 13:05:01 info: Escuchando el servidor en el puerto 8080
+2024-08-24 13:11:52 info: Mongo DB Conectado
+2024-08-24 13:11:52 info: Escuchando el servidor en el puerto 8080
+2024-08-24 13:14:49 info: Mongo DB Conectado
+2024-08-24 13:14:49 info: Escuchando el servidor en el puerto 8080
+2024-08-24 13:17:25 info: Mongo DB Conectado
+2024-08-24 13:17:25 info: Escuchando el servidor en el puerto 8080
+2024-08-24 13:19:27 info: Mongo DB Conectado
+2024-08-24 13:19:27 info: Escuchando el servidor en el puerto 8080
+2024-08-24 13:20:16 error: _id - Cast to ObjectId failed for value "dffdsfdsfds" (type string) at path "_id" for model "products"
+2024-08-24 13:22:02 info: Mongo DB Conectado
+2024-08-24 13:22:02 info: Escuchando el servidor en el puerto 8080
+2024-08-24 13:28:12 info: Mongo DB Conectado
+2024-08-24 13:28:12 info: Escuchando el servidor en el puerto 8080
+2024-08-24 13:28:23 info: Mongo DB Conectado
+2024-08-24 13:28:23 info: Escuchando el servidor en el puerto 8080
+2024-08-24 13:29:51 info: Mongo DB Conectado
+2024-08-24 13:29:51 info: Escuchando el servidor en el puerto 8080
+2024-08-24 13:33:04 info: Mongo DB Conectado
+2024-08-24 13:33:04 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:07:45 info: Mongo DB Conectado
+2024-08-24 14:07:45 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:09:22 info: Mongo DB Conectado
+2024-08-24 14:09:22 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:12:00 info: Mongo DB Conectado
+2024-08-24 14:12:00 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:12:34 info: Mongo DB Conectado
+2024-08-24 14:12:34 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:13:09 info: Mongo DB Conectado
+2024-08-24 14:13:09 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:13:49 info: Mongo DB Conectado
+2024-08-24 14:13:49 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:14:42 info: Mongo DB Conectado
+2024-08-24 14:14:42 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:16:56 info: Mongo DB Conectado
+2024-08-24 14:16:56 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:18:21 info: Mongo DB Conectado
+2024-08-24 14:18:21 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:18:59 info: Mongo DB Conectado
+2024-08-24 14:18:59 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:20:52 info: Mongo DB Conectado
+2024-08-24 14:20:52 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:21:44 info: Mongo DB Conectado
+2024-08-24 14:21:44 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:22:21 info: Mongo DB Conectado
+2024-08-24 14:22:21 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:22:52 info: Mongo DB Conectado
+2024-08-24 14:22:52 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:25:56 info: Mongo DB Conectado
+2024-08-24 14:25:56 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:27:56 info: Mongo DB Conectado
+2024-08-24 14:27:56 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:29:03 info: Mongo DB Conectado
+2024-08-24 14:29:03 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:30:00 info: Mongo DB Conectado
+2024-08-24 14:30:00 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:33:00 info: Mongo DB Conectado
+2024-08-24 14:33:00 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:34:49 info: Mongo DB Conectado
+2024-08-24 14:34:49 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:35:12 info: Mongo DB Conectado
+2024-08-24 14:35:12 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:35:16 info: Mongo DB Conectado
+2024-08-24 14:35:16 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:35:29 info: Mongo DB Conectado
+2024-08-24 14:35:29 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:35:41 info: Mongo DB Conectado
+2024-08-24 14:35:41 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:37:15 info: Mongo DB Conectado
+2024-08-24 14:37:15 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:38:10 info: Mongo DB Conectado
+2024-08-24 14:38:10 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:45:10 info: Mongo DB Conectado
+2024-08-24 14:45:10 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:46:03 info: Mongo DB Conectado
+2024-08-24 14:46:03 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:47:46 info: Mongo DB Conectado
+2024-08-24 14:47:46 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:48:48 info: Mongo DB Conectado
+2024-08-24 14:48:48 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:50:47 info: Mongo DB Conectado
+2024-08-24 14:50:47 info: Escuchando el servidor en el puerto 8080
+2024-08-24 14:52:05 info: Mongo DB Conectado
+2024-08-24 14:52:05 info: Escuchando el servidor en el puerto 8080
+2024-08-31 11:30:03 info: Mongo DB Conectado
+2024-08-31 11:30:03 info: Escuchando el servidor en el puerto 8080
+2024-08-31 12:08:24 info: Mongo DB Conectado
+2024-08-31 12:08:24 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:21:49 info: Mongo DB Conectado
+2024-08-31 14:21:49 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:23:47 info: Mongo DB Conectado
+2024-08-31 14:23:47 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:24:32 info: Mongo DB Conectado
+2024-08-31 14:24:32 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:26:31 info: Mongo DB Conectado
+2024-08-31 14:26:31 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:26:33 info: Mongo DB Conectado
+2024-08-31 14:26:33 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:31:22 info: Mongo DB Conectado
+2024-08-31 14:31:22 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:31:26 info: Mongo DB Conectado
+2024-08-31 14:31:26 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:31:28 info: Mongo DB Conectado
+2024-08-31 14:31:28 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:31:42 info: Mongo DB Conectado
+2024-08-31 14:31:42 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:31:43 info: Mongo DB Conectado
+2024-08-31 14:31:43 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:31:48 info: Mongo DB Conectado
+2024-08-31 14:31:48 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:37:04 info: Mongo DB Conectado
+2024-08-31 14:37:04 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:38:50 info: Mongo DB Conectado
+2024-08-31 14:38:50 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:39:58 info: Mongo DB Conectado
+2024-08-31 14:39:58 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:40:27 info: Mongo DB Conectado
+2024-08-31 14:40:27 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:40:30 info: Mongo DB Conectado
+2024-08-31 14:40:30 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:40:58 info: Mongo DB Conectado
+2024-08-31 14:40:58 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:41:00 info: Mongo DB Conectado
+2024-08-31 14:41:00 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:41:13 info: Mongo DB Conectado
+2024-08-31 14:41:13 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:45:54 info: Mongo DB Conectado
+2024-08-31 14:45:54 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:46:32 info: Mongo DB Conectado
+2024-08-31 14:46:32 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:46:41 info: Mongo DB Conectado
+2024-08-31 14:46:41 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:46:44 info: Mongo DB Conectado
+2024-08-31 14:46:44 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:47:13 info: Mongo DB Conectado
+2024-08-31 14:47:13 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:47:19 info: Mongo DB Conectado
+2024-08-31 14:47:19 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:48:06 info: Mongo DB Conectado
+2024-08-31 14:48:06 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:48:18 info: Mongo DB Conectado
+2024-08-31 14:48:18 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:49:26 info: Mongo DB Conectado
+2024-08-31 14:49:26 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:51:54 info: Mongo DB Conectado
+2024-08-31 14:51:54 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:54:44 info: Mongo DB Conectado
+2024-08-31 14:54:44 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:56:10 info: Mongo DB Conectado
+2024-08-31 14:56:10 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:56:19 info: Mongo DB Conectado
+2024-08-31 14:56:19 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:57:03 info: Mongo DB Conectado
+2024-08-31 14:57:03 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:58:48 info: Mongo DB Conectado
+2024-08-31 14:58:48 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:59:14 info: Mongo DB Conectado
+2024-08-31 14:59:14 info: Escuchando el servidor en el puerto 8080
+2024-08-31 14:59:16 info: Mongo DB Conectado
+2024-08-31 14:59:16 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:01:26 info: Mongo DB Conectado
+2024-08-31 15:01:26 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:01:28 info: Mongo DB Conectado
+2024-08-31 15:01:28 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:01:44 info: Mongo DB Conectado
+2024-08-31 15:01:44 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:02:00 info: Mongo DB Conectado
+2024-08-31 15:02:00 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:05:58 info: Mongo DB Conectado
+2024-08-31 15:05:58 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:09:21 info: Mongo DB Conectado
+2024-08-31 15:09:21 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:10:43 info: Mongo DB Conectado
+2024-08-31 15:10:43 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:10:45 info: Mongo DB Conectado
+2024-08-31 15:10:45 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:10:46 info: Mongo DB Conectado
+2024-08-31 15:10:46 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:11:37 info: Mongo DB Conectado
+2024-08-31 15:11:37 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:11:46 info: Mongo DB Conectado
+2024-08-31 15:11:46 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:12:16 info: Mongo DB Conectado
+2024-08-31 15:12:16 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:13:15 info: Mongo DB Conectado
+2024-08-31 15:13:15 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:13:17 info: Mongo DB Conectado
+2024-08-31 15:13:17 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:13:23 info: Mongo DB Conectado
+2024-08-31 15:13:23 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:14:04 info: Mongo DB Conectado
+2024-08-31 15:14:04 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:20:16 info: Mongo DB Conectado
+2024-08-31 15:20:16 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:21:10 info: Mongo DB Conectado
+2024-08-31 15:21:10 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:21:36 info: Mongo DB Conectado
+2024-08-31 15:21:37 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:22:59 info: Mongo DB Conectado
+2024-08-31 15:22:59 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:23:28 info: Mongo DB Conectado
+2024-08-31 15:23:29 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:23:39 info: Mongo DB Conectado
+2024-08-31 15:23:39 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:23:42 info: Mongo DB Conectado
+2024-08-31 15:23:42 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:25:23 info: Mongo DB Conectado
+2024-08-31 15:25:23 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:26:32 info: Mongo DB Conectado
+2024-08-31 15:26:32 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:26:39 info: Mongo DB Conectado
+2024-08-31 15:26:39 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:27:45 info: Mongo DB Conectado
+2024-08-31 15:27:45 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:28:10 info: Mongo DB Conectado
+2024-08-31 15:28:10 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:28:21 info: Mongo DB Conectado
+2024-08-31 15:28:21 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:28:29 info: Mongo DB Conectado
+2024-08-31 15:28:29 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:28:48 info: Mongo DB Conectado
+2024-08-31 15:28:48 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:30:09 info: Mongo DB Conectado
+2024-08-31 15:30:09 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:30:10 info: Mongo DB Conectado
+2024-08-31 15:30:10 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:31:01 info: Mongo DB Conectado
+2024-08-31 15:31:01 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:31:41 info: Mongo DB Conectado
+2024-08-31 15:31:41 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:32:14 info: Mongo DB Conectado
+2024-08-31 15:32:14 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:32:17 info: Mongo DB Conectado
+2024-08-31 15:32:17 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:32:20 info: Mongo DB Conectado
+2024-08-31 15:32:20 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:35:39 info: Mongo DB Conectado
+2024-08-31 15:35:39 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:35:48 info: Mongo DB Conectado
+2024-08-31 15:35:48 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:36:00 info: Mongo DB Conectado
+2024-08-31 15:36:00 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:36:24 info: Mongo DB Conectado
+2024-08-31 15:36:24 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:36:25 info: Mongo DB Conectado
+2024-08-31 15:36:25 info: Escuchando el servidor en el puerto 8080
+2024-08-31 15:37:11 info: Mongo DB Conectado
+2024-08-31 15:37:11 info: Escuchando el servidor en el puerto 8080
+2024-09-14 11:57:21 info: Mongo DB Conectado
+2024-09-14 11:57:21 info: Escuchando el servidor en el puerto 8080
+2024-09-14 12:04:18 info: Mongo DB Conectado
+2024-09-14 12:04:18 info: Escuchando el servidor en el puerto 8080
+2024-09-14 12:08:28 info: Mongo DB Conectado
+2024-09-14 12:08:28 info: Escuchando el servidor en el puerto 8080
+2024-09-14 12:11:06 info: Mongo DB Conectado
+2024-09-14 12:11:06 info: Escuchando el servidor en el puerto 8080
+2024-09-14 12:12:38 info: Mongo DB Conectado
+2024-09-14 12:12:38 info: Escuchando el servidor en el puerto 8080
+2024-09-14 12:12:44 info: Mongo DB Conectado
+2024-09-14 12:12:44 info: Escuchando el servidor en el puerto 8080
+2024-09-14 12:13:06 info: Mongo DB Conectado
+2024-09-14 12:13:06 info: Escuchando el servidor en el puerto 8080
+2024-09-14 12:13:15 info: Mongo DB Conectado
+2024-09-14 12:13:15 info: Escuchando el servidor en el puerto 8080
+2024-09-14 12:13:18 error: C:\Users\profe\OneDrive\Documentos\comisiones\backend-53155\clase-44-45-integradora\public\upload\avatar.jpg - ENOENT: no such file or directory, open 'C:\Users\profe\OneDrive\Documentos\comisiones\backend-53155\clase-44-45-integradora\public\upload\avatar.jpg'
+2024-09-14 12:18:36 info: Mongo DB Conectado
+2024-09-14 12:18:36 info: Escuchando el servidor en el puerto 8080
+2024-09-14 12:21:50 info: Mongo DB Conectado
+2024-09-14 12:21:50 info: Escuchando el servidor en el puerto 8080
+2024-09-14 12:22:08 error: C:\Users\profe\OneDrive\Documentos\comisiones\backend-53155\clase-44-45-integradora\public\upload\avatar.jpg - ENOENT: no such file or directory, open 'C:\Users\profe\OneDrive\Documentos\comisiones\backend-53155\clase-44-45-integradora\public\upload\avatar.jpg'
+2024-09-14 12:22:28 info: Mongo DB Conectado
+2024-09-14 12:22:28 info: Escuchando el servidor en el puerto 8080
+2024-09-14 12:25:59 info: Mongo DB Conectado
+2024-09-14 12:25:59 info: Escuchando el servidor en el puerto 8080
+2024-09-14 12:27:49 info: Mongo DB Conectado
+2024-09-14 12:27:49 info: Escuchando el servidor en el puerto 8080
+2024-09-14 12:45:50 info: Mongo DB Conectado
+2024-09-14 12:45:50 info: Escuchando el servidor en el puerto 8080
+2024-09-14 12:46:23 info: Mongo DB Conectado
+2024-09-14 12:46:23 info: Escuchando el servidor en el puerto 8080
+2024-09-14 12:47:49 info: Mongo DB Conectado
+2024-09-14 12:47:49 info: Escuchando el servidor en el puerto 8080
+2024-09-14 13:00:04 info: Mongo DB Conectado
+2024-09-14 13:00:04 info: Escuchando el servidor en el puerto 8080
+2024-09-14 13:03:19 info: Mongo DB Conectado
+2024-09-14 13:03:19 info: Escuchando el servidor en el puerto 8080
+2024-09-14 13:03:24 info: Mongo DB Conectado
+2024-09-14 13:03:24 info: Escuchando el servidor en el puerto 8080
+2024-09-14 13:04:32 info: Mongo DB Conectado
+2024-09-14 13:04:32 info: Escuchando el servidor en el puerto 8080
+2024-09-14 13:04:59 info: Mongo DB Conectado
+2024-09-14 13:04:59 info: Escuchando el servidor en el puerto 8080
+2024-09-14 13:05:19 info: Mongo DB Conectado
+2024-09-14 13:05:19 info: Escuchando el servidor en el puerto 8080
+2024-09-14 13:07:03 info: Mongo DB Conectado
+2024-09-14 13:07:03 info: Escuchando el servidor en el puerto 8080
+2024-09-14 13:07:56 info: Mongo DB Conectado
+2024-09-14 13:07:56 info: Escuchando el servidor en el puerto 8080
+2024-09-14 13:08:08 info: Mongo DB Conectado
+2024-09-14 13:08:08 info: Escuchando el servidor en el puerto 8080
+2024-09-14 13:08:22 info: Mongo DB Conectado
+2024-09-14 13:08:22 info: Escuchando el servidor en el puerto 8080
+2024-09-14 13:11:20 info: Mongo DB Conectado
+2024-09-14 13:11:20 info: Escuchando el servidor en el puerto 8080
+2024-09-14 13:13:08 info: Mongo DB Conectado
+2024-09-14 13:13:08 info: Escuchando el servidor en el puerto 8080
+2024-09-14 13:22:00 info: Mongo DB Conectado
+2024-09-14 13:22:00 info: Escuchando el servidor en el puerto 8080
