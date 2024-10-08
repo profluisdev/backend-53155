@@ -1,0 +1,15 @@
+2024-08-03 13:04:50 error: Cast to ObjectId failed for value "663ecface7a12be667faa99" (type string) at path "_id" for model "products"
+2024-08-03 13:08:24 error: Cast to ObjectId failed for value "fdsfsdfsd" (type string) at path "_id" for model "products"
+2024-08-03 13:11:48 error: [GET] /api/products/id:
+2024-08-03 13:11:48 error: Cast to ObjectId failed for value "fdsfsdfsd" (type string) at path "_id" for model "products"
+2024-08-03 13:12:23 error: [GET] /api/products/id:
+2024-08-03 13:14:02 error: [GET] /api/products/id:
+2024-08-03 13:14:02 error: Cast to ObjectId failed for value "663ecfac" (type string) at path "_id" for model "products"
+2024-08-03 13:14:16 error: [GET] /api/products/id:
+2024-08-03 13:14:16 error: Cast to ObjectId failed for value "663ecfac" (type string) at path "_id" for model "products"
+2024-08-16 20:46:30 error: [POST] /api/user/reset-password - data and hash arguments required
+2024-08-16 20:50:02 error: [POST] /api/user/reset-password - data and hash arguments required
+2024-08-16 20:50:38 error: [POST] /api/user/reset-password - data and hash arguments required
+2024-08-24 13:20:16 error: _id - Cast to ObjectId failed for value "dffdsfdsfds" (type string) at path "_id" for model "products"
+2024-09-14 12:13:18 error: C:\Users\profe\OneDrive\Documentos\comisiones\backend-53155\clase-44-45-integradora\public\upload\avatar.jpg - ENOENT: no such file or directory, open 'C:\Users\profe\OneDrive\Documentos\comisiones\backend-53155\clase-44-45-integradora\public\upload\avatar.jpg'
+2024-09-14 12:22:08 error: C:\Users\profe\OneDrive\Documentos\comisiones\backend-53155\clase-44-45-integradora\public\upload\avatar.jpg - ENOENT: no such file or directory, open 'C:\Users\profe\OneDrive\Documentos\comisiones\backend-53155\clase-44-45-integradora\public\upload\avatar.jpg'

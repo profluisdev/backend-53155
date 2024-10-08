@@ -1,0 +1,18 @@
+paths:
+  /api/carts/{cid}/purchase:
+    get:
+      tags:
+        - Cart
+      summary: Agregar un producto al carrito
+      parameters:
+        - name: cid
+          in: path
+          description: Id del carrito
+          required: true
+          schema:
+            type: string
+      responses:
+        "200":
+          description: El producto se agrego al carrito
+        "500":
+          description: Internal Server Error

@@ -1,0 +1,47 @@
+paths:
+    /api/products:
+        post:
+            tags:
+                - Products
+            summary: Create product
+            requestBody:
+              required: true
+              content:
+                application/json:
+                    schema:
+                        $ref: "#components/requestBodies/createProduct"
+
+            responses:
+                "201":
+                    description: El producto se creo correctamente.
+                    
+                "500":
+                    description: Internal Server Error
+
+components:
+  requestBodies:
+    createProduct:
+      type: object
+      properties:
+          title:
+              type: string
+          description:
+              type: string
+          thumbnail:
+              type: array
+          code:
+              type: string
+          stock:
+              type: integer
+          price:
+              type: number
+          category:
+              type: string
+      example:
+          title: "Producto 1"
+          description: "Un producto"
+          thumbnail: ["www.google.com"]
+          code: "SFDS123A"
+          stock: 20
+          price: 342.032
+          category: "Zapatos"
